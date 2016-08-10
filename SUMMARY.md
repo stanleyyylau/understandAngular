@@ -14,3 +14,12 @@
   * [Getting Other Services](allNotes/3.5.md)
   * [Javascript Aside: Arrays and Functions](allNotes/3.6.md)
   * [Dependency Injection and Minification](allNotes/3.7.md)
+* [Section 4: Data Binding and Directives]
+  * [Scope and Interpolation](allNotes/4.1.md)
+  * [Directives and Two Way Data Binding](allNotes/section4.2.md)
+  * [Javascript Aside: The Event Loop](allNotes/4.3.md)
+  * [Watchers and the Digest Loop](allNotes/4.4.md)
+  * [Common Directives](allNotes/4.5.md)
+  * [Common Directives (Part 2)](allNotes/4.6.md)
+  * [Javascript Aside: The XMLHTTPRequest Object](allNotes/4.7.md)
+  * [External Data and $http](allNotes/4.8.md)
