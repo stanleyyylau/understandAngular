@@ -6,3 +6,11 @@
   * [HTML Aside: Custom Attributes](allNotes/2.3.md)
   * [Javascript Aside: The Global Namespace](allNotes/2.4.md)
   * [Modules, Apps, and Controllers](allNotes/2.5.md)
+* [Section 3: Services and Dependency Injection]
+  * [Javascript Aside: Dependency Injection](allNotes/3.1.md)
+  * [The Scope Service](allNotes/section3.2.md)
+  * [Javascript Aside: Functions and Strings](allNotes/3.3.md)
+  * [How Does Angular Do Dependency Injection?](allNotes/3.4.md)
+  * [Getting Other Services](allNotes/3.5.md)
+  * [Javascript Aside: Arrays and Functions](allNotes/3.6.md)
+  * [Dependency Injection and Minification](allNotes/3.7.md)
