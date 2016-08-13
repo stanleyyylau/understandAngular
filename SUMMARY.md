@@ -23,3 +23,8 @@
   * [Common Directives (Part 2)](allNotes/4.6.md)
   * [Javascript Aside: The XMLHTTPRequest Object](allNotes/4.7.md)
   * [External Data and $http](allNotes/4.8.md)
+* [Section 5: Single Page Applications]
+  * [Angular Aside: Multiple Controllers, Multiple Views](allNotes/5.1.md)
+  * [HTML and Javascript Aside: Single Page Apps and the Hash](allNotes/section5.2.md)
+  * [Routing, Templates, and Controllers](allNotes/5.3.md)
+  * [Routing Templates and Controller (Part 2)](allNotes/5.4.md)
