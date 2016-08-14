@@ -28,3 +28,6 @@
   * [HTML and Javascript Aside: Single Page Apps and the Hash](allNotes/section5.2.md)
   * [Routing, Templates, and Controllers](allNotes/5.3.md)
   * [Routing Templates and Controller (Part 2)](allNotes/5.4.md)
+* [Section 6: Custom Services]
+  * [Javascript Aside: Singletons](allNotes/6.1.md)
+  * [Creating a Service](allNotes/section6.2.md)
